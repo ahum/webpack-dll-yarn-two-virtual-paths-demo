@@ -1,0 +1,15 @@
+{
+  "name": "dll-one-user",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "devDependencies": {
+    "webpack": "5.0.0-beta.13",
+    "webpack-cli": "^3.3.10"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}
